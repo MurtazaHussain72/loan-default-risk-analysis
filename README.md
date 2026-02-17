@@ -97,13 +97,14 @@ Key attributes include:
 ## 📷 Dashboard Screenshots
 
 ### Loan Default & Overview
-![Loan Default Overview](Screenshots/Loan%20Default%20Overview.png)
+![Loan Default Overview](Screenshots/loan-default-overview.png)
 
 ### Applicant Demographics & Financial Profile
-![Applicant Demographics](Screenshots/Applicant%20Demographics.png)
+![Applicant Demographics](Screenshots/applicant-demographics.png)
 
 ### Financial Risk Metrics
-![Financial Risk Metrics](Screenshots/Financial%20Risk%20Metrics.png)
+![Financial Risk Metrics](Screenshots/financial-risk-metrics.png)
+
 
 ---
 
